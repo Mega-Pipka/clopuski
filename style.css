@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #87CEEB;
+    border-radius:10px;
+    padding: 10px;
+}
+h1{
+    color:blueviolet;
+   text-align: center;
+}
+footer{
+ background-color: pink;
+ padding:5px ;
+}
+footer p{
+    background-color: white;
+    
+}
+.g{
+   background-color:#32CD32 ; 
+}
+.h22{
+    color: blue;
+}
+.img22{
+    border-radius: 10px;
+    border: 2px solid blue;
+}
